@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/PplFinder-Master-Edit/static/js/main.d692ff8d.chunk.js",
+    "main.js.map": "/PplFinder-Master-Edit/static/js/main.d692ff8d.chunk.js.map",
+    "runtime-main.js": "/PplFinder-Master-Edit/static/js/runtime-main.391e5a8f.js",
+    "runtime-main.js.map": "/PplFinder-Master-Edit/static/js/runtime-main.391e5a8f.js.map",
+    "static/js/2.833a74c5.chunk.js": "/PplFinder-Master-Edit/static/js/2.833a74c5.chunk.js",
+    "static/js/2.833a74c5.chunk.js.map": "/PplFinder-Master-Edit/static/js/2.833a74c5.chunk.js.map",
+    "index.html": "/PplFinder-Master-Edit/index.html",
+    "static/js/2.833a74c5.chunk.js.LICENSE.txt": "/PplFinder-Master-Edit/static/js/2.833a74c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.391e5a8f.js",
+    "static/js/2.833a74c5.chunk.js",
+    "static/js/main.d692ff8d.chunk.js"
+  ]
+}
